@@ -1,0 +1,103 @@
+    1  dir
+    2  git statu
+    3  git status
+    4  git logg
+    5  cd /root
+    6  cd root
+    7  dir
+    8   cd server_lesson/
+    9  dir
+   10  git log
+   11  git diff
+   12  git version
+   13  touch linux_practice1/public/index.php
+   14  dir public
+   15  dir /public
+   16  dir
+   17  cd linux_practice1/
+   18  dir /public
+   19  dir public
+   20  cp public/index.php index_bk.php
+   21  dir public/
+   22  dir
+   23  rm index_bk.php
+   24  cp public/index.php public/index_bk.php
+   25  dir public
+   26  git diff
+   27  git status
+   28  git add .
+   29  git status
+   30  git diff
+   31  git commit -index_bk.php cp'
+;
+ 
+''
+'
+   32  git log
+   33  git init
+   34  git status
+   35  git add /
+   36  git add .
+   37  git commit -m 'index_bk.php add'
+   38  git config user.emai;
+   39  git config user.email
+   40  git config user.email "mmiem1018@gmail.com"
+   41  git config user.name "mibusa"
+   42  git commit -m 'index_bk.php add'
+   43  dor
+   44  dir
+   45  cp public tmp
+   46  cp public/ tmp
+   47  cp -r public/ tmp
+   48  dir
+   49   rm tmp/index_bk.php 
+   50  cd ../
+   51  touch RMADME.md
+   52  dir
+   53  rm RMADME.md
+   54  touch README.md
+   55  vi README.md
+   56  gidd status
+   57  git diff
+   58  git status
+   59  git add .
+   60  git diff
+   61  git status
+   62  git commit -m 'Lesson1 described'
+   63  git log
+   64  git config user.email "mmiem1018@gmail.com"
+   65  git config user.name "mibusa"
+   66  git status
+   67  git add .
+   68  git status
+   69  git commit -m 'Lesson1 described'
+   70  git log
+   71  mkdir linux_practice2
+   72  dir
+   73  cd linux_practice2
+   74  mkdir documents
+   75  cd documents/
+   76  touch gizumo{1..50}.md
+   77  cd ../
+   78  mkdir trash
+   79  mv documents/gizumo{20..40}.md trash
+   80  dir
+   81  dir documents/
+   82  dir trash/
+   83  dir documents
+   84  touch .gitignore
+   85  vi .gitignore 
+   86  history 300
+   87  history -a 300 exec_command.log
+   88  dir
+   89  dir 300
+   90  dir/b
+   91  cd ../
+   92  dir
+   93  cd linux_practice2
+   94  dir
+   95  rm 300
+   96  touch .gitignore
+   97  dir
+   98  vi .gitignore 
+   99  history 300 >>exec_command.log
